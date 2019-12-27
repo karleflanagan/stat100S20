@@ -19,7 +19,7 @@ semester: Spring 2020
 short-semester: "S20"
 description: >- # this means to ignore newlines until "baseurl:"
   We are dedicated to helping students on the U of I campus learn and understand basic statistical concepts so they can understand and make sense of things that are interesting or important to them.
-baseurl: "/stat100" # the subpath of your site, e.g. /blog
+baseurl: "/stat100S20" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
