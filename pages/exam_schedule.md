@@ -13,10 +13,10 @@ title: Exam-Schedule
 
 {% for exam in site.data.info.exams %}
 <h2>{{ site.short-title }} {{ exam.name }}</h2>
-<h4><b>Date: {{ exam.date }}</b></h4>
-<h4><b>Time: {{ exam.time }}</b></h4>
-<h4><b>Covers: {{ exam.content }}</b></h4>
-<h4><b>Locations: {{ exam.locations }}</b></h4>
+<h4><b>Date:</b> {{ exam.date }}</h4>
+<h4><b>Time: </b>{{ exam.time }}</h4>
+<h4><b>Covers: </b>{{ exam.content }}</h4>
+<h4><b>Locations: </b> {{ exam.locations }}</h4>
 
 {% if exam.base-name == 'Exam1' %}
 {% include exam_schedule.html %}
