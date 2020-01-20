@@ -6,9 +6,10 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 10px auto; width: 24%;"></div>
 
   <p>
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+ Welcome to Stat 100!  All students (both online and in person) should purchase the 
+book STAT 100 Incomplete Lecture Notes by Ellen Fireman, Karle Flanagan, and John Marden.  
+Either the Fall 2019 or Spring 2020 version will work!  It is available at the Illini Union
+ bookstore for about $35. You will be using this throughout the entire semester :)
   </p>
 
 # instructors and sections variables dictate content for the course sections info section of the home page, instructor contact information in syllabus, class times info in syllabus, bonus work info in syllabus, and instructor contact links in footer.
@@ -51,7 +52,7 @@ office-hours:
 # Course Materials
 textbook:
   name: "Stat 100 Incomplete Lecture Notes Workbook"
-  edition: "<u>Orange</u> Spring 2020 edition"
+  edition: "Either the Fall 2019 OR Spring 2020 edition"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
 
@@ -65,41 +66,41 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
-  date: "Wednesday, September 18th, 2019"
+  date: "Wednesday, February 12th, 2020"
   time: "7:00-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
   show-exams: T
-  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: Foellinger Auditorium<br>"
+  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
 - name: "Exam 2"
   base-name: "Exam2"
-  date: "Wednesday, October 16th, 2019"
+  date: "Wednesday, March 11th, 2020"
   time: "7:00-8:30pm"
   content: "Chapter 6 Part 2-Chapter 12"
   locations: "Same as exam 1"
   show-exams: F
-  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: Foellinger Auditorium<br>"
+  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
 - name: "Exam 3"
   base-name: "Exam3"
-  date: "Wednesday, November 13th, 2019"
+  date: "Wednesday, April 15th, 2020"
   time: "7:00-8:30pm"
   content: "Chapters 13-19"
   locations: "Same as exam 1 & 2"
   show-exams: F
-  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: Foellinger Auditorium<br>"
+  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
 show-finals: FF
 
 # This is for code that builds the practice exams tables.
 exam-years:
-  first: "S19" # Most recent semester
-  full1: "Spring 2019"
-  second: "F18"
-  full2: "Fall 2018"
-  third: "S18"
-  full3: "Spring 2018"
+  first: "F19" # Most recent semester
+  full1: "Fall 2019"
+  second: "S19"
+  full2: "Spring 2019"
+  third: "F18"
+  full3: "Fall 2018"
   fourth: "F16" # notebook exam
   full4: "Fall 2016"
 
@@ -107,8 +108,8 @@ final-years:
   first: "S14" # Most recent semester
   second: "S12"
 
-uiucfinals: "https://registrar.illinois.edu/courses-grades/final-exam-schedule-public/fallschedulingguidelines_public/"
-final-deadline: "December 12th (the last day of class) at 11:59pm!"
+uiucfinals: "https://registrar.illinois.edu/spring-2020-non-combined-scheduling-guidelines/"
+final-deadline: "May 6th (the last day of class) at 11:59pm!"
 
 grade-calc: T
 
@@ -170,8 +171,8 @@ visit:
 - name: "Department of Statistics"
   url: "https://stat.illinois.edu"
 
-- name: '<i class="fab fa-youtube" style="height:17px;"></i> StatLecture 100'
-  url: "https://www.youtube.com/channel/UC1NWUJFnBSwciUP5Fniy_7w"
+- name: '<i class="fab fa-youtube" style="height:17px;"></i> Stat 100 Youtube'
+  url: "https://www.youtube.com/channel/UCJfmPc8InilkUnR_hwVniKA"
 
 # Course webpages
 course-link1: "http://courses.las.illinois.edu/stat/stat100/"
