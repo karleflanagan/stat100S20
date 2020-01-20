@@ -34,7 +34,6 @@ title: syllabus
 
 ## Course Webpage
   * <b><a href="{{ site.data.info.course-link1 }}" target="\_blank">{{ site.data.info.course-link1 }}</a></b>
-    <br>(short URL: <b><a href="{{ site.data.info.course-link2 }}" target="\_blank">{{ site.data.info.course-link2 }}</a></b>)
     <br>You can also google "stat 100" :)
 
 ## Course Materials
@@ -42,9 +41,8 @@ title: syllabus
     1. Available at the Illini Union Bookstore for {{ site.data.info.textbook.price }}.
     2. We will fill out this notebook together in class for extra credit.
     3. Only the {{ site.data.info.textbook.edition }} will be accepted for extra credit (no previous versions).
-* **Required Calculator:** Any non-programmable calculator is accepted (no phones, graphing calculators, etc.) I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b>
-* **Optional iClicker for in-person section:** Each day in class, a few iClicker questions will be asked and you can get extra credit for them.<br>
-\*Online class - do not buy an iClicker, you'll get extra credit points in other ways (see bonus points).
+* **Required Calculator:** Any non-programmable calculator is accepted (no phones, graphing calculators, etc.). I recommend <b><a href="{{ site.data.info.calculator }}" target="\_blank">this one!</a></b>
+* **Optional iClicker for in-person section:** Each day in class, a few iClicker questions will be asked and you can get extra credit for them.  Online class - do not buy an iClicker, you'll get extra credit points in other ways (see bonus points).
 
 ## Class Times
 <ul>
@@ -57,7 +55,7 @@ title: syllabus
 
 ## Office Hours
 * <b>{{ site.short-title }} Office Hours in {{ site.data.info.office-hours.room }} <a href="{{ site.data.info.office-hours.map }}" target="\_blank">{{ site.data.info.office-hours.building }}</a>:</b> {{ site.data.info.office-hours.days }} from {{ site.data.info.office-hours.times }}
-* This room is a computer lab where you can come to ask questions, get help from the instructors and CAs, or do your homework. Feel free to stop by anytime If you are unavailable during these times and want to meet, send us an email and we will set up a time!
+* This room is a computer lab where you can come to ask questions, get help from the instructors and student educators, or do your homework. Feel free to stop by anytime If you are unavailable during these times and want to meet, send us an email and we will set up a time!
 
 ## Technical Issues
 * If you experience a glitch in Lon Capa/Compass, first, try logging out and logging back in. If this doesn't work, send an email to our tech doc, {{ site.data.info.technical.name }} <b><a href="mailto:{{ site.data.info.technical.email }}">{{ site.data.info.technical.email }}</a></b> describing the problem. Please make sure to include a screenshot of the error in your e-mail. You can also stop by office hours and get help in person!
@@ -67,16 +65,14 @@ title: syllabus
 * <b style="color:red;">We do NOT accept late hw, but we do drop your 3 lowest HW scores. This means you can miss 3 HW assignments without any penalty!</b>
 
 ## Exam Schedule
-* There will be 3 evening exams and a cumulative final. See the <b><a href="{{ site.baseurl }}/pages/exams.html">Exam Schedule</a></b> for dates, times, and locations.
+* There will be 3 evening exams and a cumulative final. See the <b><a href="{{ site.baseurl }}/pages/exam_schedule.html">Exam Schedule</a></b> for dates, times, and locations.
 
 ## Grade for Required Work
 
 * **Grade for required work**
   1. 3 Exams: 60% (each worth 20%)
   2. Homework: 15%
-  3. Final Exam: 25%{% if site.data.info.grade-calc == "T" %}
-  4. [Click here for a grade calculator](http://www.stat.illinois.edu/courses/stat100/computegrade.html)
-{% endif %}
+  3. Final Exam: 25%
 
 
 
@@ -105,7 +101,7 @@ title: syllabus
   We will look over your notebook at the final. You'll get full credit if you have all the pages from lecture filled in. You may skip ALL the practice exams and summary pages. If you're missing more than 3 required pages don't bother to turn in the notebook because you will receive negative bonus points. You may pick up your notebook at the end of your exam to keep forever.
   4. **iClickers (in person class only!)**<br>
   iClicker questions will be asked each day in class. You will get 1 bonus point per class period if you answer all of the iClicker questions. You can skip 2 days and still get full iClicker points.
-  5. <b><u>* Bonus points can only help you.</u> You can still get 100% in this class without doing any bonus work.</b>
+  <br><br> <b><u>* Bonus points can only help you.</u> You can still get 100% in this class without doing any bonus work.</b>
 * **Bonus points are figured into your grade as follows:**
 <img src="{{ site.baseurl }}/assets/img/BonusGrade.png" style="width:100%;">
   * Suppose at the end of the semester you have a 75% average and you did 100% of the bonus work.

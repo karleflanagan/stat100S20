@@ -50,7 +50,7 @@ office-hours:
 
 # Course Materials
 textbook:
-  name: "Stat 100 Incomplete Lecture Notes Workbook"
+  name: "Stat 100 Incomplete Lecture Notes Workbook."
   edition: "Either the Fall 2019 OR Spring 2020 edition"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
@@ -174,8 +174,7 @@ visit:
   url: "https://www.youtube.com/channel/UCJfmPc8InilkUnR_hwVniKA"
 
 # Course webpages
-course-link1: "http://courses.las.illinois.edu/stat/stat100/"
-course-link2: "https://go.illinois.edu/stat100"
+course-link1: "https://go.illinois.edu/stat100"
 
 calculator: "https://www.amazon.com/Texas-Instruments-Scientific-Calculator-Accents/dp/B00000JBNX"
 
