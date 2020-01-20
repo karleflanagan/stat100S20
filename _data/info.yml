@@ -1,15 +1,14 @@
 # Semester Information (Changes from semester to semester)
 
 # Weekly Announcements
-aannouncements: 
+aannouncements: >-
   <h2>Weekly Announcements</h2>
   <div class="sub-heading-underline" style="margin:0 auto 10px auto; width: 24%;"></div>
-
   <p>
- Welcome to Stat 100!  All students (both online and in person) should purchase the 
-book STAT 100 Incomplete Lecture Notes by Ellen Fireman, Karle Flanagan, and John Marden.  
-Either the Fall 2019 or Spring 2020 version will work!  It is available at the Illini Union
- bookstore for about $35. You will be using this throughout the entire semester :)
+  Welcome to Stat 100!  All students (both online and in person) should purchase the
+  book STAT 100 Incomplete Lecture Notes by Ellen Fireman, Karle Flanagan, and John Marden.
+  Either the Fall 2019 or Spring 2020 version will work!  It is available at the Illini Union
+  bookstore for about $35. You will be using this throughout the entire semester :)
   </p>
 
 # instructors and sections variables dictate content for the course sections info section of the home page, instructor contact information in syllabus, class times info in syllabus, bonus work info in syllabus, and instructor contact links in footer.
