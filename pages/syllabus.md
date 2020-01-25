@@ -29,7 +29,6 @@ title: syllabus
    </li>
 
 {% endfor %}
-<b>* Please do not send emails to our illinois.edu accounts.</b>
 </ul>
 
 ## Course Webpage
