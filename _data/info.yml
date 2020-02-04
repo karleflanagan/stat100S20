@@ -69,7 +69,7 @@ exams:
   time: "7:00-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: F
+  show-exams: T
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
 - name: "Exam 2"
