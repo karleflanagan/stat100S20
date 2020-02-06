@@ -74,7 +74,9 @@ exams:
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
   show-exams: T
-  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
+  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All IN PERSON Students (Sections L1 & L2):
+    100 Material Science and Engineering Building<br><br>
+    Location for ALL ONLINE Students (Section KF): 100 Gregory Hall<br>"
 
 - name: "Exam 2"
   base-name: "Exam2"
