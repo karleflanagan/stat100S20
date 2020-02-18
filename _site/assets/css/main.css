@@ -109,9 +109,10 @@ body {
   font-weight: bold;
   text-transform: uppercase;
 }
-.announcements p {
+.announcements p, .announcements li {
   color: #13294b;
   font-size: 1.1vw;
+  text-align: left;
 }
 .announcements {
   margin: 0 auto;
@@ -481,7 +482,7 @@ hr.socket {
     font-weight: bold;
     text-transform: uppercase;
   }
-  .announcements p {
+  .announcements p, .announcements li  {
     color: #13294b;
     font-size: 15px;
     text-align: left;
