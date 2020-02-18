@@ -70,10 +70,10 @@ exams:
   base-name: "Exam1"
   keys: >-
     <ul>
-    <li><a href="{{ site.baseurl }}/assets/docs/exams/Exam1/VersionAExam1Key.pdf" target="_blank">Stat Key</a></li>
-    <li><a href="{{ site.baseurl }}/assets/docs/exams/Exam1/VersionBExam1Key.pdf" target="_blank">Stats Key</a></li>
-    <li><a href="{{ site.baseurl }}/assets/docs/exams/Exam1/VersionCExam1Key.pdf" target="_blank">Statistics Key</a></li>
-    <li><a href="{{ site.baseurl }}/assets/docs/exams/Exam1/VersionDExam1Key.pdf" target="_blank">STAT Key</a></li>
+    <li><a href="https://karleflanagan.github.io/stat100S20/assets/docs/exams/Exam1/VersionAExam1Key.pdf" target="_blank">Stat Key</a></li>
+    <li><a href="https://karleflanagan.github.io/stat100S20/assets/docs/exams/Exam1/VersionBExam1Key.pdf" target="_blank">Stats Key</a></li>
+    <li><a href="https://karleflanagan.github.io/stat100S20/assets/docs/exams/Exam1/VersionCExam1Key.pdf" target="_blank">Statistics Key</a></li>
+    <li><a href="https://karleflanagan.github.io/stat100S20/assets/docs/exams/Exam1/VersionDExam1Key.pdf" target="_blank">STAT Key</a></li>
     </ul>
   date: "Wednesday, February 12th, 2020"
   time: "7:00-8:30pm"
