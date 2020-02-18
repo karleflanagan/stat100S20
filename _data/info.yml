@@ -75,7 +75,7 @@ exams:
     <li><a href="{{ site.baseurl }}/assets/docs/exams/VersionCExam1Key.pdf" target="_blank">Statistics Key</a></li>
     <li><a href="{{ site.baseurl }}/assets/docs/exams/VersionDExam1Key.pdf" target="_blank">STAT Key</a></li>
     </ul>
-  date: "Wednesday, February 12th, 2020"
+  date: "Wednesday, February 12th, 2020 (testing message, ignore this)"
   time: "7:00-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
