@@ -13,6 +13,7 @@ title: Exam-Schedule
 
 {% for exam in site.data.info.exams %}
 <h2>{{ site.short-title }} {{ exam.name }}</h2>
+<h4><b>Keys:</b> {{ exam.keys }}</h4>
 <h4><b>Date:</b> {{ exam.date }}</h4>
 <h4><b>Time: </b>{{ exam.time }}</h4>
 <h4><b>Covers: </b>{{ exam.content }}</h4>

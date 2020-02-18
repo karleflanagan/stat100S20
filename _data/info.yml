@@ -68,6 +68,13 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
+  keys: >-
+    <ul>
+    <li><a href="{{ site.baseurl }}/assets/docs/exams/VersionAExam1Key.pdf" target="_blank"></a>Stat Key</li>
+    <li><a href="{{ site.baseurl }}/assets/docs/exams/VersionBExam1Key.pdf" target="_blank">Stats Key</a></li>
+    <li><a href="{{ site.baseurl }}/assets/docs/exams/VersionCExam1Key.pdf" target="_blank">Statistics Key</a></li>
+    <li><a href="{{ site.baseurl }}/assets/docs/exams/VersionDExam1Key.pdf" target="_blank">STAT Key</a></li>
+    </ul>
   date: "Wednesday, February 12th, 2020"
   time: "7:00-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
@@ -80,6 +87,7 @@ exams:
 
 - name: "Exam 2"
   base-name: "Exam2"
+  keys: ""
   date: "Wednesday, March 11th, 2020"
   time: "7:00-8:30pm"
   content: "Chapter 6 Part 2-Chapter 12"
@@ -89,6 +97,7 @@ exams:
 
 - name: "Exam 3"
   base-name: "Exam3"
+  keys: ""
   date: "Wednesday, April 15th, 2020"
   time: "7:00-8:30pm"
   content: "Chapters 13-19"
