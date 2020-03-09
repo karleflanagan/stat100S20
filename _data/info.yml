@@ -7,7 +7,10 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 10px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-  <li>Remember, we drop the 3 lowest Homework Assignments! So you can miss 3 without penalty! &#128522;</li>
+  <li>Exam 2 is Wednesday March 11th at 7pm <a href="https://karleflanagan.github.io/stat100S20/pages/exam_schedule.html" target="_blank">(click here for locations)</a>! 📝</li>
+  <li>The best way to study is to do the <a href="https://karleflanagan.github.io/stat100S20/pages/practice_exams.html" target="_blank">practice exams</a> as real exams without peeking at the key! 🧮</li>
+  <li>Exam 2 covers Chapters 6-12 📚</li>
+  <li>Office Hours this week are from 2-5pm in 23 Illini Hall on Monday and Tuesday. There will be no office hours Wed-Fri during exam week.</li>
   </ul>
   </p>
 
@@ -87,10 +90,13 @@ exams:
   keys: ""
   date: "Wednesday, March 11th, 2020"
   time: "7:00-8:30pm"
-  content: "Chapter 6 Part 2-Chapter 12"
-  locations: "Same as exam 1"
+  content: "Chapter 6-Chapter 12"
+  locations: ""
   show-exams: T
-  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
+  conflict: >-
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1 & L2):
+    <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
+    <li>Location for <b>ALL ONLINE</b> Students (Section KF): <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">100 Gregory Hall</a><br></li></ul></span>
 
 - name: "Exam 3"
   base-name: "Exam3"
@@ -98,7 +104,7 @@ exams:
   date: "Wednesday, April 15th, 2020"
   time: "7:00-8:30pm"
   content: "Chapters 13-19"
-  locations: "Same as exam 1 & 2"
+  locations: ""
   show-exams: F
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
