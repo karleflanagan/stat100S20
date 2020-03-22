@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: content
-title: Covid 19 Online Adjustments
+title: Covid-19-Online-Adjustments
 ---
 
 
