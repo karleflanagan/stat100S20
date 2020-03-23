@@ -84,7 +84,11 @@ exams:
 
 - name: "Exam 2"
   base-name: "Exam2"
-  keys: ""
+  keys: >-
+    <ul>
+    <li><a href="https://karleflanagan.github.io/stat100S20/assets/docs/exams/Exam2/VersionASpringExam2Key.pdf" target="_blank">Spring Key</a></li>
+    <li><a href="https://karleflanagan.github.io/stat100S20/assets/docs/exams/Exam2/VersionBSPRINGExam2Key.pdf" target="_blank">SPRING Key</a></li>
+    </ul>
   date: "Wednesday, March 11th, 2020"
   time: "7:00-8:30pm"
   content: "Chapter 6-Chapter 12"
