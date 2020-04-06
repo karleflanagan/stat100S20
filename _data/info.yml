@@ -103,7 +103,7 @@ exams:
   base-name: "Exam3"
   keys: ""
   date: "Wednesday, April 15th, 2020"
-  time: "7:00-8:30pm"
+  time: "12:00am-9:00pm"
   content: "Chapters 13-19"
   locations: ""
   show-exams: F
