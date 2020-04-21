@@ -382,6 +382,17 @@ hr.socket {
   margin-top: 50px;
 }
 
+
+/* iframe */
+
+iframe {
+  display:block;
+  width: 90%;
+  height: 800;
+  margin: 0 auto;
+  background-color: #777;
+}
+
 /*-- Media Styling --*/
 
 @media (max-width: 767px) {
@@ -441,7 +452,7 @@ hr.socket {
   .syllabus {
     width: 100%;
   }
-  .syllabus.narrow, .calendar.narrow, .faqs.narrow, .exam-schedule.narrow, .practice-exams.narrow, .Covid-19-Online-Adjustments.narrow {
+  .syllabus.narrow, .calendar.narrow, .faqs.narrow, .exam-schedule.narrow, .practice-exams.narrow, .Covid-19-Online-Amendments.narrow, .grade-calculator.narrow {
     width: 100%;
     padding-top: 5px;
   }
@@ -456,7 +467,7 @@ hr.socket {
     padding-bottom: 1px;
     padding-top: 25px;
   }
-  .syllabus.narrow .card, .exam-schedule.narrow .card, .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Adjustments.narrow .card {
+  .syllabus.narrow .card, .exam-schedule.narrow .card, .practice-exams.narrow .card, .faqs.narrow .card, .Covid-19-Online-Amendments.narrow .card, .grade-calculator.narrow .card {
     padding: 0 30px;
     margin-bottom: -20px;
   }
@@ -496,5 +507,10 @@ hr.socket {
     margin: 40px -40px 0px -40px;
     padding: 0 auto;
     height: auto;
+  }
+  iframe {
+    width: 100%;
+    height: 800;
+    margin: 0 auto;
   }
 }
