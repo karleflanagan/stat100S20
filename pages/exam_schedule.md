@@ -31,12 +31,12 @@ title: Exam-Schedule
 
 <h2>Final Exam</h2>
 <ul>
-<li>
+<!-- <li>
  I use the final exam time assigned to our class by the university.<br>
 </li>
 <li>
 See <b><a href="{{ site.data.info.uiucfinals }}" target="\_blank">Official University Final Exams Schedules and Policies</a></b>.<br>
-</li>
+</li> -->
 <li>
 The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 </li>
