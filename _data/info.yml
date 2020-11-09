@@ -74,7 +74,7 @@ exams:
   time: "7:00-8:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: T
+  show-exams: FF
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1 & L2):
     <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
@@ -91,7 +91,7 @@ exams:
   time: "7:00-8:30pm"
   content: "Chapter 6-Chapter 12"
   locations: ""
-  show-exams: T
+  show-exams: FF
   conflict: >-
     <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1 & L2):
     <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
@@ -104,10 +104,10 @@ exams:
   time: "12:00am-9:00pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: T
+  show-exams: FF
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
-show-finals: T
+show-finals: FF
 
 # This is for code that builds the practice exams tables.
 exam-years:
